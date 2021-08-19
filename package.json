@@ -1,0 +1,11 @@
+{
+  "name": "qse",
+  "version": "1.0.0",
+  "description": "Students' Survey",
+  "author": "Experimental Systems and Technology Lab, Ministry of Education",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "ejs-electron": "^2.0.3"
+  }
+}
